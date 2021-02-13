@@ -1,1 +1,1 @@
-# lecci-ncurso3D
+# leccioncurso3D
